@@ -2,7 +2,7 @@
 
 Power up your training and rise to the top of **Gym League** with the **Speed Hub**, a completely **keyless** automation powerhouse. Whether you're farming muscles, rolling auras, or dominating competitions, this script automates everything to keep your grind fast, smooth, and efficient.
 
-![script-image](image-link-placeholder)
+![script-image](https://github.com/U-ziii/Gym-League-Speed-hub-NO-KEY/blob/main/Gym%20League%20Speed%20Hub%20-%20No%20Key%2C%20All%20Power%20%20.png)
 
 ---
 
